@@ -1,0 +1,2714 @@
+[
+    {
+      "ID": 1,
+      "WEDDING_ID": 4987,
+      "VENDOR_ID": 268,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-04-05 18:00"
+    },
+    {
+      "ID": 531,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-04-20 16:30"
+    },
+    {
+      "ID": 545,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-03 18:30"
+    },
+    {
+      "ID": 552,
+      "WEDDING_ID": 12397,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-06 16:00"
+    },
+    {
+      "ID": 554,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-12 16:30"
+    },
+    {
+      "ID": 563,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-20 13:00"
+    },
+    {
+      "ID": 564,
+      "WEDDING_ID": 12842,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-22 12:30"
+    },
+    {
+      "ID": 577,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-25 14:00"
+    },
+    {
+      "ID": 578,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-30 14:00"
+    },
+    {
+      "ID": 579,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-07-05 15:00"
+    },
+    {
+      "ID": 580,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-05 14:30"
+    },
+    {
+      "ID": 581,
+      "WEDDING_ID": 289,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-26 14:00"
+    },
+    {
+      "ID": 582,
+      "WEDDING_ID": 289,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-30 14:00"
+    },
+    {
+      "ID": 583,
+      "WEDDING_ID": 289,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-28 14:00"
+    },
+    {
+      "ID": 584,
+      "WEDDING_ID": 13360,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-29 13:00"
+    },
+    {
+      "ID": 585,
+      "WEDDING_ID": 13632,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-30 16:00"
+    },
+    {
+      "ID": 586,
+      "WEDDING_ID": 4877,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-01 13:30"
+    },
+    {
+      "ID": 587,
+      "WEDDING_ID": 4877,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-01 13:30"
+    },
+    {
+      "ID": 588,
+      "WEDDING_ID": 4877,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-01 13:30"
+    },
+    {
+      "ID": 589,
+      "WEDDING_ID": 11053,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-29 13:00"
+    },
+    {
+      "ID": 590,
+      "WEDDING_ID": 4163,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-05 14:00"
+    },
+    {
+      "ID": 591,
+      "WEDDING_ID": 1303,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-29 12:00"
+    },
+    {
+      "ID": 592,
+      "WEDDING_ID": 1303,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-01 12:00"
+    },
+    {
+      "ID": 593,
+      "WEDDING_ID": 4163,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-17 15:30"
+    },
+    {
+      "ID": 594,
+      "WEDDING_ID": 868,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-29 13:00"
+    },
+    {
+      "ID": 595,
+      "WEDDING_ID": 4877,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-07-13 18:30"
+    },
+    {
+      "ID": 596,
+      "WEDDING_ID": 868,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-01 13:30"
+    },
+    {
+      "ID": 597,
+      "WEDDING_ID": 11053,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-28 15:00"
+    },
+    {
+      "ID": 598,
+      "WEDDING_ID": 11053,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-05 18:30"
+    },
+    {
+      "ID": 599,
+      "WEDDING_ID": 868,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-03 12:30"
+    },
+    {
+      "ID": 600,
+      "WEDDING_ID": 3547,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-28 22:00"
+    },
+    {
+      "ID": 601,
+      "WEDDING_ID": 1147,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-05-30 21:00"
+    },
+    {
+      "ID": 602,
+      "WEDDING_ID": 1303,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-14 13:00"
+    },
+    {
+      "ID": 604,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-04 15:00"
+    },
+    {
+      "ID": 607,
+      "WEDDING_ID": 4987,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-08 18:00"
+    },
+    {
+      "ID": 613,
+      "WEDDING_ID": 1303,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-19 12:00"
+    },
+    {
+      "ID": 614,
+      "WEDDING_ID": 3123,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-06-22 15:00"
+    },
+    {
+      "ID": 624,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-07-03 18:00"
+    },
+    {
+      "ID": 636,
+      "WEDDING_ID": 3123,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-18 19:30"
+    },
+    {
+      "ID": 637,
+      "WEDDING_ID": 3123,
+      "VENDOR_ID": 268,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-30 14:15"
+    },
+    {
+      "ID": 646,
+      "WEDDING_ID": 3123,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-20 18:00"
+    },
+    {
+      "ID": 647,
+      "WEDDING_ID": 3123,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-10 18:00"
+    },
+    {
+      "ID": 668,
+      "WEDDING_ID": 20524,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-10 17:00"
+    },
+    {
+      "ID": 669,
+      "WEDDING_ID": 20524,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-10 17:00"
+    },
+    {
+      "ID": 670,
+      "WEDDING_ID": 20524,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-13 19:30"
+    },
+    {
+      "ID": 671,
+      "WEDDING_ID": 20612,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-11 15:00"
+    },
+    {
+      "ID": 675,
+      "WEDDING_ID": 20180,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-07 22:30"
+    },
+    {
+      "ID": 676,
+      "WEDDING_ID": 20180,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-09 16:00"
+    },
+    {
+      "ID": 680,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 19:00"
+    },
+    {
+      "ID": 681,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 19:00"
+    },
+    {
+      "ID": 682,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 19:00"
+    },
+    {
+      "ID": 683,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 19:00"
+    },
+    {
+      "ID": 684,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 17:30"
+    },
+    {
+      "ID": 685,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 17:30"
+    },
+    {
+      "ID": 686,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 17:30"
+    },
+    {
+      "ID": 687,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-23 17:30"
+    },
+    {
+      "ID": 688,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-29 18:00"
+    },
+    {
+      "ID": 689,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-09-23 12:00"
+    },
+    {
+      "ID": 690,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 691,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 692,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 693,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 694,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 695,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 696,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 697,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 698,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-28 21:00"
+    },
+    {
+      "ID": 699,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-26 15:30"
+    },
+    {
+      "ID": 700,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-29 20:00"
+    },
+    {
+      "ID": 701,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-26 15:30"
+    },
+    {
+      "ID": 702,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-11-26 15:30"
+    },
+    {
+      "ID": 703,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-29 21:30"
+    },
+    {
+      "ID": 704,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-15 17:30"
+    },
+    {
+      "ID": 705,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-15 17:30"
+    },
+    {
+      "ID": 706,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-15 17:30"
+    },
+    {
+      "ID": 707,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-15 17:30"
+    },
+    {
+      "ID": 708,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-17 17:00"
+    },
+    {
+      "ID": 709,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-17 17:00"
+    },
+    {
+      "ID": 710,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-15 16:00"
+    },
+    {
+      "ID": 718,
+      "WEDDING_ID": 21171,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-21 16:30"
+    },
+    {
+      "ID": 719,
+      "WEDDING_ID": 13360,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-17 14:00"
+    },
+    {
+      "ID": 720,
+      "WEDDING_ID": 12428,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-15 16:00"
+    },
+    {
+      "ID": 733,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-08-26 13:30"
+    },
+    {
+      "ID": 738,
+      "WEDDING_ID": 21171,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-09-01 12:00"
+    },
+    {
+      "ID": 764,
+      "WEDDING_ID": 12428,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-09-23 13:30"
+    },
+    {
+      "ID": 769,
+      "WEDDING_ID": 23333,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-09-22 12:00"
+    },
+    {
+      "ID": 792,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-16 17:00"
+    },
+    {
+      "ID": 794,
+      "WEDDING_ID": 26609,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-05 16:00"
+    },
+    {
+      "ID": 815,
+      "WEDDING_ID": 4157,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-10 17:00"
+    },
+    {
+      "ID": 816,
+      "WEDDING_ID": 27309,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-10 17:00"
+    },
+    {
+      "ID": 818,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 268,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-09 12:00"
+    },
+    {
+      "ID": 838,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 268,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-17 17:00"
+    },
+    {
+      "ID": 839,
+      "WEDDING_ID": 27621,
+      "VENDOR_ID": 268,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-15 12:00"
+    },
+    {
+      "ID": 849,
+      "WEDDING_ID": 27665,
+      "VENDOR_ID": 268,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-17 17:00"
+    },
+    {
+      "ID": 850,
+      "WEDDING_ID": 27666,
+      "VENDOR_ID": 268,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "assessoria-de-casamento",
+      "BEGINS_AT": "2020-10-18 14:00"
+    },
+    {
+      "ID": 640,
+      "WEDDING_ID": 19161,
+      "VENDOR_ID": 433,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "buffet",
+      "BEGINS_AT": "2020-08-03 18:30"
+    },
+    {
+      "ID": 622,
+      "WEDDING_ID": 16128,
+      "VENDOR_ID": 124,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-30 17:00"
+    },
+    {
+      "ID": 741,
+      "WEDDING_ID": 22663,
+      "VENDOR_ID": 124,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-03 16:00"
+    },
+    {
+      "ID": 541,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 151,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-27 19:00"
+    },
+    {
+      "ID": 542,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 152,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-28 19:00"
+    },
+    {
+      "ID": 618,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 152,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-22 16:00"
+    },
+    {
+      "ID": 660,
+      "WEDDING_ID": 20229,
+      "VENDOR_ID": 158,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-15 13:00"
+    },
+    {
+      "ID": 823,
+      "WEDDING_ID": 27578,
+      "VENDOR_ID": 201,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 18:00"
+    },
+    {
+      "ID": 536,
+      "WEDDING_ID": 12245,
+      "VENDOR_ID": 202,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-11-14 17:30"
+    },
+    {
+      "ID": 538,
+      "WEDDING_ID": 12281,
+      "VENDOR_ID": 202,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2021-11-14 20:30"
+    },
+    {
+      "ID": 550,
+      "WEDDING_ID": 12393,
+      "VENDOR_ID": 202,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-07 15:00"
+    },
+    {
+      "ID": 648,
+      "WEDDING_ID": 18823,
+      "VENDOR_ID": 202,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-02 18:00"
+    },
+    {
+      "ID": 770,
+      "WEDDING_ID": 24075,
+      "VENDOR_ID": 202,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-27 13:30"
+    },
+    {
+      "ID": 804,
+      "WEDDING_ID": 27028,
+      "VENDOR_ID": 202,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-12-01 12:00"
+    },
+    {
+      "ID": 556,
+      "WEDDING_ID": 12517,
+      "VENDOR_ID": 259,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-06 16:00"
+    },
+    {
+      "ID": 653,
+      "WEDDING_ID": 19719,
+      "VENDOR_ID": 259,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 13:00"
+    },
+    {
+      "ID": 739,
+      "WEDDING_ID": 22624,
+      "VENDOR_ID": 259,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 20:00"
+    },
+    {
+      "ID": 820,
+      "WEDDING_ID": 27561,
+      "VENDOR_ID": 259,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-12 14:00"
+    },
+    {
+      "ID": 835,
+      "WEDDING_ID": 27598,
+      "VENDOR_ID": 259,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 13:00"
+    },
+    {
+      "ID": 551,
+      "WEDDING_ID": 1738,
+      "VENDOR_ID": 262,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-30 15:00"
+    },
+    {
+      "ID": 665,
+      "WEDDING_ID": 20341,
+      "VENDOR_ID": 262,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 12:30"
+    },
+    {
+      "ID": 558,
+      "WEDDING_ID": 12531,
+      "VENDOR_ID": 263,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-07 15:00"
+    },
+    {
+      "ID": 730,
+      "WEDDING_ID": 21938,
+      "VENDOR_ID": 280,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-28 19:00"
+    },
+    {
+      "ID": 781,
+      "WEDDING_ID": 23691,
+      "VENDOR_ID": 280,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-28 17:00"
+    },
+    {
+      "ID": 787,
+      "WEDDING_ID": 26324,
+      "VENDOR_ID": 280,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-12-05 18:30"
+    },
+    {
+      "ID": 788,
+      "WEDDING_ID": 26324,
+      "VENDOR_ID": 280,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-10 18:30"
+    },
+    {
+      "ID": 518,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 289,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-06 15:00"
+    },
+    {
+      "ID": 825,
+      "WEDDING_ID": 27578,
+      "VENDOR_ID": 289,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-12 13:00"
+    },
+    {
+      "ID": 779,
+      "WEDDING_ID": 24952,
+      "VENDOR_ID": 290,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-27 14:00"
+    },
+    {
+      "ID": 514,
+      "WEDDING_ID": 11796,
+      "VENDOR_ID": 291,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-02 16:00"
+    },
+    {
+      "ID": 663,
+      "WEDDING_ID": 20338,
+      "VENDOR_ID": 291,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-22 18:00"
+    },
+    {
+      "ID": 561,
+      "WEDDING_ID": 7844,
+      "VENDOR_ID": 295,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-11 15:30"
+    },
+    {
+      "ID": 712,
+      "WEDDING_ID": 20435,
+      "VENDOR_ID": 295,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-15 16:00"
+    },
+    {
+      "ID": 762,
+      "WEDDING_ID": 23889,
+      "VENDOR_ID": 295,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-24 22:30"
+    },
+    {
+      "ID": 763,
+      "WEDDING_ID": 24104,
+      "VENDOR_ID": 295,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-04 20:00"
+    },
+    {
+      "ID": 766,
+      "WEDDING_ID": 24314,
+      "VENDOR_ID": 295,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-17 14:00"
+    },
+    {
+      "ID": 528,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 297,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-27 15:00"
+    },
+    {
+      "ID": 824,
+      "WEDDING_ID": 27578,
+      "VENDOR_ID": 297,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 14:00"
+    },
+    {
+      "ID": 539,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 299,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-27 16:00"
+    },
+    {
+      "ID": 615,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 299,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-22 12:30"
+    },
+    {
+      "ID": 603,
+      "WEDDING_ID": 14007,
+      "VENDOR_ID": 301,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-02 12:00"
+    },
+    {
+      "ID": 801,
+      "WEDDING_ID": 3464,
+      "VENDOR_ID": 309,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 18:00"
+    },
+    {
+      "ID": 829,
+      "WEDDING_ID": 27580,
+      "VENDOR_ID": 311,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 13:00"
+    },
+    {
+      "ID": 836,
+      "WEDDING_ID": 27592,
+      "VENDOR_ID": 311,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-16 15:00"
+    },
+    {
+      "ID": 846,
+      "WEDDING_ID": 27614,
+      "VENDOR_ID": 311,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 14:30"
+    },
+    {
+      "ID": 848,
+      "WEDDING_ID": 27614,
+      "VENDOR_ID": 311,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 15:30"
+    },
+    {
+      "ID": 543,
+      "WEDDING_ID": 12340,
+      "VENDOR_ID": 313,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-17 18:00"
+    },
+    {
+      "ID": 557,
+      "WEDDING_ID": 12517,
+      "VENDOR_ID": 313,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-07 16:00"
+    },
+    {
+      "ID": 666,
+      "WEDDING_ID": 20435,
+      "VENDOR_ID": 313,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 17:30"
+    },
+    {
+      "ID": 795,
+      "WEDDING_ID": 26877,
+      "VENDOR_ID": 313,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-24 17:00"
+    },
+    {
+      "ID": 802,
+      "WEDDING_ID": 27028,
+      "VENDOR_ID": 313,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-11-03 13:00"
+    },
+    {
+      "ID": 517,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 314,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-04 18:00"
+    },
+    {
+      "ID": 748,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 314,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 16:30"
+    },
+    {
+      "ID": 749,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 314,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 12:00"
+    },
+    {
+      "ID": 752,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 314,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-12 17:00"
+    },
+    {
+      "ID": 758,
+      "WEDDING_ID": 22795,
+      "VENDOR_ID": 314,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-10 14:00"
+    },
+    {
+      "ID": 786,
+      "WEDDING_ID": 25862,
+      "VENDOR_ID": 314,
+      "STATUS": "VISITED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-03 18:00"
+    },
+    {
+      "ID": 832,
+      "WEDDING_ID": 27596,
+      "VENDOR_ID": 314,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-24 14:00"
+    },
+    {
+      "ID": 524,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 317,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-06 20:00"
+    },
+    {
+      "ID": 525,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 317,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-06 18:00"
+    },
+    {
+      "ID": 548,
+      "WEDDING_ID": 12044,
+      "VENDOR_ID": 317,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-24 19:00"
+    },
+    {
+      "ID": 633,
+      "WEDDING_ID": 18473,
+      "VENDOR_ID": 317,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-21 18:00"
+    },
+    {
+      "ID": 806,
+      "WEDDING_ID": 27078,
+      "VENDOR_ID": 317,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 14:00"
+    },
+    {
+      "ID": 833,
+      "WEDDING_ID": 27578,
+      "VENDOR_ID": 317,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 18:00"
+    },
+    {
+      "ID": 515,
+      "WEDDING_ID": 11839,
+      "VENDOR_ID": 322,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2025-01-19 20:30"
+    },
+    {
+      "ID": 523,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 323,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-21 19:30"
+    },
+    {
+      "ID": 549,
+      "WEDDING_ID": 12044,
+      "VENDOR_ID": 323,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-23 17:00"
+    },
+    {
+      "ID": 628,
+      "WEDDING_ID": 15217,
+      "VENDOR_ID": 323,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-25 17:00"
+    },
+    {
+      "ID": 721,
+      "WEDDING_ID": 21665,
+      "VENDOR_ID": 323,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-30 14:00"
+    },
+    {
+      "ID": 813,
+      "WEDDING_ID": 27173,
+      "VENDOR_ID": 323,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-11 13:30"
+    },
+    {
+      "ID": 610,
+      "WEDDING_ID": 15091,
+      "VENDOR_ID": 325,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-17 13:00"
+    },
+    {
+      "ID": 650,
+      "WEDDING_ID": 11082,
+      "VENDOR_ID": 327,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-05 17:00"
+    },
+    {
+      "ID": 631,
+      "WEDDING_ID": 17913,
+      "VENDOR_ID": 334,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-14 18:00"
+    },
+    {
+      "ID": 535,
+      "WEDDING_ID": 12234,
+      "VENDOR_ID": 335,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-23 15:30"
+    },
+    {
+      "ID": 540,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 335,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-28 16:00"
+    },
+    {
+      "ID": 612,
+      "WEDDING_ID": 15185,
+      "VENDOR_ID": 335,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-19 20:30"
+    },
+    {
+      "ID": 616,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 335,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-22 13:30"
+    },
+    {
+      "ID": 834,
+      "WEDDING_ID": 27592,
+      "VENDOR_ID": 335,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-29 14:00"
+    },
+    {
+      "ID": 530,
+      "WEDDING_ID": 12062,
+      "VENDOR_ID": 339,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-19 15:00"
+    },
+    {
+      "ID": 571,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 339,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-20 13:00"
+    },
+    {
+      "ID": 519,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 344,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-07 15:00"
+    },
+    {
+      "ID": 575,
+      "WEDDING_ID": 13025,
+      "VENDOR_ID": 346,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-23 13:00"
+    },
+    {
+      "ID": 567,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 348,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-20 13:00"
+    },
+    {
+      "ID": 649,
+      "WEDDING_ID": 19488,
+      "VENDOR_ID": 348,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-01 14:00"
+    },
+    {
+      "ID": 734,
+      "WEDDING_ID": 22267,
+      "VENDOR_ID": 348,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 17:00"
+    },
+    {
+      "ID": 735,
+      "WEDDING_ID": 18161,
+      "VENDOR_ID": 348,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 18:00"
+    },
+    {
+      "ID": 737,
+      "WEDDING_ID": 22324,
+      "VENDOR_ID": 348,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 18:00"
+    },
+    {
+      "ID": 791,
+      "WEDDING_ID": 26469,
+      "VENDOR_ID": 348,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 18:00"
+    },
+    {
+      "ID": 798,
+      "WEDDING_ID": 3464,
+      "VENDOR_ID": 348,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 17:00"
+    },
+    {
+      "ID": 843,
+      "WEDDING_ID": 27614,
+      "VENDOR_ID": 348,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-31 17:00"
+    },
+    {
+      "ID": 520,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 351,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-20 15:00"
+    },
+    {
+      "ID": 527,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 351,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-07 19:00"
+    },
+    {
+      "ID": 729,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 351,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-30 14:00"
+    },
+    {
+      "ID": 728,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 352,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 13:00"
+    },
+    {
+      "ID": 544,
+      "WEDDING_ID": 12340,
+      "VENDOR_ID": 353,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-16 18:00"
+    },
+    {
+      "ID": 609,
+      "WEDDING_ID": 15086,
+      "VENDOR_ID": 353,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-16 12:30"
+    },
+    {
+      "ID": 623,
+      "WEDDING_ID": 16292,
+      "VENDOR_ID": 353,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-01 20:00"
+    },
+    {
+      "ID": 774,
+      "WEDDING_ID": 25172,
+      "VENDOR_ID": 353,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-26 13:00"
+    },
+    {
+      "ID": 632,
+      "WEDDING_ID": 17947,
+      "VENDOR_ID": 355,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-17 13:00"
+    },
+    {
+      "ID": 717,
+      "WEDDING_ID": 21122,
+      "VENDOR_ID": 355,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-12 17:30"
+    },
+    {
+      "ID": 750,
+      "WEDDING_ID": 22858,
+      "VENDOR_ID": 355,
+      "STATUS": "VISITED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-12 17:30"
+    },
+    {
+      "ID": 761,
+      "WEDDING_ID": 23455,
+      "VENDOR_ID": 355,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-20 13:30"
+    },
+    {
+      "ID": 822,
+      "WEDDING_ID": 27567,
+      "VENDOR_ID": 355,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 14:00"
+    },
+    {
+      "ID": 534,
+      "WEDDING_ID": 12195,
+      "VENDOR_ID": 356,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-12-05 20:00"
+    },
+    {
+      "ID": 568,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 356,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-21 13:00"
+    },
+    {
+      "ID": 572,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 356,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-19 13:00"
+    },
+    {
+      "ID": 619,
+      "WEDDING_ID": 15703,
+      "VENDOR_ID": 356,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-22 17:00"
+    },
+    {
+      "ID": 608,
+      "WEDDING_ID": 14798,
+      "VENDOR_ID": 357,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-17 20:30"
+    },
+    {
+      "ID": 657,
+      "WEDDING_ID": 18558,
+      "VENDOR_ID": 357,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 14:00"
+    },
+    {
+      "ID": 727,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 357,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 19:30"
+    },
+    {
+      "ID": 745,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 357,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 16:00"
+    },
+    {
+      "ID": 757,
+      "WEDDING_ID": 23162,
+      "VENDOR_ID": 357,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-20 17:00"
+    },
+    {
+      "ID": 805,
+      "WEDDING_ID": 27070,
+      "VENDOR_ID": 357,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 17:00"
+    },
+    {
+      "ID": 842,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 357,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-19 19:00"
+    },
+    {
+      "ID": 522,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 360,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-21 15:00"
+    },
+    {
+      "ID": 674,
+      "WEDDING_ID": 20704,
+      "VENDOR_ID": 361,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-15 19:00"
+    },
+    {
+      "ID": 627,
+      "WEDDING_ID": 17501,
+      "VENDOR_ID": 363,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-11 20:30"
+    },
+    {
+      "ID": 673,
+      "WEDDING_ID": 4102,
+      "VENDOR_ID": 363,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 14:00"
+    },
+    {
+      "ID": 746,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 363,
+      "STATUS": "VISITED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 18:00"
+    },
+    {
+      "ID": 652,
+      "WEDDING_ID": 19692,
+      "VENDOR_ID": 369,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-09 13:00"
+    },
+    {
+      "ID": 560,
+      "WEDDING_ID": 12602,
+      "VENDOR_ID": 377,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-25 18:00"
+    },
+    {
+      "ID": 840,
+      "WEDDING_ID": 27608,
+      "VENDOR_ID": 377,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 17:30"
+    },
+    {
+      "ID": 529,
+      "WEDDING_ID": 12028,
+      "VENDOR_ID": 385,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-15 16:00"
+    },
+    {
+      "ID": 606,
+      "WEDDING_ID": 14297,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-05 13:00"
+    },
+    {
+      "ID": 635,
+      "WEDDING_ID": 18716,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-25 13:00"
+    },
+    {
+      "ID": 638,
+      "WEDDING_ID": 18880,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-24 18:00"
+    },
+    {
+      "ID": 639,
+      "WEDDING_ID": 18666,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-01 17:00"
+    },
+    {
+      "ID": 655,
+      "WEDDING_ID": 19832,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 17:30"
+    },
+    {
+      "ID": 711,
+      "WEDDING_ID": 20435,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-15 14:30"
+    },
+    {
+      "ID": 740,
+      "WEDDING_ID": 22663,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-03 13:00"
+    },
+    {
+      "ID": 767,
+      "WEDDING_ID": 24584,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-20 14:00"
+    },
+    {
+      "ID": 768,
+      "WEDDING_ID": 24704,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-26 14:00"
+    },
+    {
+      "ID": 776,
+      "WEDDING_ID": 25188,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-26 13:30"
+    },
+    {
+      "ID": 777,
+      "WEDDING_ID": 25188,
+      "VENDOR_ID": 393,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-26 13:30"
+    },
+    {
+      "ID": 845,
+      "WEDDING_ID": 27614,
+      "VENDOR_ID": 394,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 18:30"
+    },
+    {
+      "ID": 569,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 395,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-23 13:00"
+    },
+    {
+      "ID": 642,
+      "WEDDING_ID": 19243,
+      "VENDOR_ID": 395,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 13:00"
+    },
+    {
+      "ID": 796,
+      "WEDDING_ID": 3464,
+      "VENDOR_ID": 398,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 13:00"
+    },
+    {
+      "ID": 797,
+      "WEDDING_ID": 3464,
+      "VENDOR_ID": 398,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 13:00"
+    },
+    {
+      "ID": 819,
+      "WEDDING_ID": 3464,
+      "VENDOR_ID": 398,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 13:30"
+    },
+    {
+      "ID": 611,
+      "WEDDING_ID": 15091,
+      "VENDOR_ID": 401,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-17 13:30"
+    },
+    {
+      "ID": 664,
+      "WEDDING_ID": 20338,
+      "VENDOR_ID": 401,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-22 18:00"
+    },
+    {
+      "ID": 732,
+      "WEDDING_ID": 22129,
+      "VENDOR_ID": 401,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 17:00"
+    },
+    {
+      "ID": 780,
+      "WEDDING_ID": 23691,
+      "VENDOR_ID": 406,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-26 14:00"
+    },
+    {
+      "ID": 651,
+      "WEDDING_ID": 19692,
+      "VENDOR_ID": 408,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-05 15:00"
+    },
+    {
+      "ID": 756,
+      "WEDDING_ID": 22795,
+      "VENDOR_ID": 409,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-19 15:00"
+    },
+    {
+      "ID": 844,
+      "WEDDING_ID": 27614,
+      "VENDOR_ID": 409,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 13:00"
+    },
+    {
+      "ID": 847,
+      "WEDDING_ID": 27614,
+      "VENDOR_ID": 409,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 14:00"
+    },
+    {
+      "ID": 537,
+      "WEDDING_ID": 12259,
+      "VENDOR_ID": 411,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-02 15:00"
+    },
+    {
+      "ID": 555,
+      "WEDDING_ID": 39,
+      "VENDOR_ID": 411,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-04 15:30"
+    },
+    {
+      "ID": 565,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 411,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-18 12:30"
+    },
+    {
+      "ID": 573,
+      "WEDDING_ID": 34,
+      "VENDOR_ID": 411,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-21 13:30"
+    },
+    {
+      "ID": 620,
+      "WEDDING_ID": 15848,
+      "VENDOR_ID": 411,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-27 18:00"
+    },
+    {
+      "ID": 716,
+      "WEDDING_ID": 20674,
+      "VENDOR_ID": 411,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-15 19:30"
+    },
+    {
+      "ID": 784,
+      "WEDDING_ID": 26012,
+      "VENDOR_ID": 411,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 17:30"
+    },
+    {
+      "ID": 2,
+      "WEDDING_ID": 11733,
+      "VENDOR_ID": 421,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-11 18:00"
+    },
+    {
+      "ID": 760,
+      "WEDDING_ID": 23549,
+      "VENDOR_ID": 421,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-15 12:30"
+    },
+    {
+      "ID": 773,
+      "WEDDING_ID": 25035,
+      "VENDOR_ID": 421,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-23 13:30"
+    },
+    {
+      "ID": 821,
+      "WEDDING_ID": 27561,
+      "VENDOR_ID": 421,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-12 14:00"
+    },
+    {
+      "ID": 559,
+      "WEDDING_ID": 12583,
+      "VENDOR_ID": 425,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2021-04-10 17:30"
+    },
+    {
+      "ID": 625,
+      "WEDDING_ID": 11598,
+      "VENDOR_ID": 425,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-17 20:30"
+    },
+    {
+      "ID": 605,
+      "WEDDING_ID": 14123,
+      "VENDOR_ID": 427,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-05 16:00"
+    },
+    {
+      "ID": 516,
+      "WEDDING_ID": 11858,
+      "VENDOR_ID": 441,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-03 17:00"
+    },
+    {
+      "ID": 659,
+      "WEDDING_ID": 18558,
+      "VENDOR_ID": 444,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-22 18:00"
+    },
+    {
+      "ID": 672,
+      "WEDDING_ID": 4102,
+      "VENDOR_ID": 444,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 18:00"
+    },
+    {
+      "ID": 714,
+      "WEDDING_ID": 18558,
+      "VENDOR_ID": 444,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 17:30"
+    },
+    {
+      "ID": 785,
+      "WEDDING_ID": 26012,
+      "VENDOR_ID": 444,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 13:30"
+    },
+    {
+      "ID": 790,
+      "WEDDING_ID": 24187,
+      "VENDOR_ID": 444,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-03 14:00"
+    },
+    {
+      "ID": 547,
+      "WEDDING_ID": 12044,
+      "VENDOR_ID": 445,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-24 17:00"
+    },
+    {
+      "ID": 574,
+      "WEDDING_ID": 13025,
+      "VENDOR_ID": 445,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-23 18:00"
+    },
+    {
+      "ID": 576,
+      "WEDDING_ID": 868,
+      "VENDOR_ID": 447,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-23 13:00"
+    },
+    {
+      "ID": 617,
+      "WEDDING_ID": 10312,
+      "VENDOR_ID": 447,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-22 14:30"
+    },
+    {
+      "ID": 533,
+      "WEDDING_ID": 12174,
+      "VENDOR_ID": 455,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-20 15:30"
+    },
+    {
+      "ID": 532,
+      "WEDDING_ID": 12139,
+      "VENDOR_ID": 459,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-04-21 16:00"
+    },
+    {
+      "ID": 570,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 459,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-24 13:00"
+    },
+    {
+      "ID": 643,
+      "WEDDING_ID": 19243,
+      "VENDOR_ID": 459,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 19:30"
+    },
+    {
+      "ID": 644,
+      "WEDDING_ID": 19243,
+      "VENDOR_ID": 459,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 19:30"
+    },
+    {
+      "ID": 645,
+      "WEDDING_ID": 19243,
+      "VENDOR_ID": 459,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 19:30"
+    },
+    {
+      "ID": 661,
+      "WEDDING_ID": 20331,
+      "VENDOR_ID": 459,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-25 14:00"
+    },
+    {
+      "ID": 814,
+      "WEDDING_ID": 27194,
+      "VENDOR_ID": 459,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 18:00"
+    },
+    {
+      "ID": 755,
+      "WEDDING_ID": 22927,
+      "VENDOR_ID": 460,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-07 13:30"
+    },
+    {
+      "ID": 775,
+      "WEDDING_ID": 25164,
+      "VENDOR_ID": 460,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-04 20:30"
+    },
+    {
+      "ID": 830,
+      "WEDDING_ID": 27567,
+      "VENDOR_ID": 461,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 14:30"
+    },
+    {
+      "ID": 841,
+      "WEDDING_ID": 26912,
+      "VENDOR_ID": 462,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-15 19:30"
+    },
+    {
+      "ID": 679,
+      "WEDDING_ID": 20856,
+      "VENDOR_ID": 468,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-10 12:00"
+    },
+    {
+      "ID": 562,
+      "WEDDING_ID": 12775,
+      "VENDOR_ID": 469,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-04 15:00"
+    },
+    {
+      "ID": 751,
+      "WEDDING_ID": 22785,
+      "VENDOR_ID": 470,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-06 15:00"
+    },
+    {
+      "ID": 811,
+      "WEDDING_ID": 27156,
+      "VENDOR_ID": 470,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-08 20:30"
+    },
+    {
+      "ID": 521,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 472,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-06 18:30"
+    },
+    {
+      "ID": 526,
+      "WEDDING_ID": 11514,
+      "VENDOR_ID": 472,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-06 20:00"
+    },
+    {
+      "ID": 630,
+      "WEDDING_ID": 17913,
+      "VENDOR_ID": 477,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-14 17:00"
+    },
+    {
+      "ID": 837,
+      "WEDDING_ID": 27592,
+      "VENDOR_ID": 477,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-19 13:00"
+    },
+    {
+      "ID": 546,
+      "WEDDING_ID": 12044,
+      "VENDOR_ID": 483,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-23 19:00"
+    },
+    {
+      "ID": 553,
+      "WEDDING_ID": 12436,
+      "VENDOR_ID": 486,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-02 15:00"
+    },
+    {
+      "ID": 566,
+      "WEDDING_ID": 12887,
+      "VENDOR_ID": 494,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-05-19 13:00"
+    },
+    {
+      "ID": 658,
+      "WEDDING_ID": 18558,
+      "VENDOR_ID": 494,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-22 12:00"
+    },
+    {
+      "ID": 667,
+      "WEDDING_ID": 18558,
+      "VENDOR_ID": 494,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-22 12:30"
+    },
+    {
+      "ID": 713,
+      "WEDDING_ID": 18558,
+      "VENDOR_ID": 494,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 14:00"
+    },
+    {
+      "ID": 731,
+      "WEDDING_ID": 22073,
+      "VENDOR_ID": 494,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-31 19:30"
+    },
+    {
+      "ID": 807,
+      "WEDDING_ID": 27028,
+      "VENDOR_ID": 494,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-12-08 12:30"
+    },
+    {
+      "ID": 621,
+      "WEDDING_ID": 15872,
+      "VENDOR_ID": 496,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-06-24 20:30"
+    },
+    {
+      "ID": 626,
+      "WEDDING_ID": 17501,
+      "VENDOR_ID": 496,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-11 20:00"
+    },
+    {
+      "ID": 759,
+      "WEDDING_ID": 23390,
+      "VENDOR_ID": 496,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-12 14:00"
+    },
+    {
+      "ID": 808,
+      "WEDDING_ID": 27070,
+      "VENDOR_ID": 496,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 13:30"
+    },
+    {
+      "ID": 817,
+      "WEDDING_ID": 27512,
+      "VENDOR_ID": 496,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-10 13:00"
+    },
+    {
+      "ID": 778,
+      "WEDDING_ID": 25242,
+      "VENDOR_ID": 533,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 14:00"
+    },
+    {
+      "ID": 629,
+      "WEDDING_ID": 17715,
+      "VENDOR_ID": 539,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-13 12:00"
+    },
+    {
+      "ID": 783,
+      "WEDDING_ID": 25830,
+      "VENDOR_ID": 539,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-01 13:30"
+    },
+    {
+      "ID": 654,
+      "WEDDING_ID": 19807,
+      "VENDOR_ID": 554,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-09 13:00"
+    },
+    {
+      "ID": 677,
+      "WEDDING_ID": 20824,
+      "VENDOR_ID": 554,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 14:00"
+    },
+    {
+      "ID": 678,
+      "WEDDING_ID": 20824,
+      "VENDOR_ID": 554,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 13:30"
+    },
+    {
+      "ID": 725,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 554,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-23 14:00"
+    },
+    {
+      "ID": 754,
+      "WEDDING_ID": 22906,
+      "VENDOR_ID": 559,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-13 18:00"
+    },
+    {
+      "ID": 772,
+      "WEDDING_ID": 24952,
+      "VENDOR_ID": 559,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-04 14:00"
+    },
+    {
+      "ID": 789,
+      "WEDDING_ID": 26351,
+      "VENDOR_ID": 559,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-11-22 18:00"
+    },
+    {
+      "ID": 826,
+      "WEDDING_ID": 27578,
+      "VENDOR_ID": 559,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 16:00"
+    },
+    {
+      "ID": 722,
+      "WEDDING_ID": 21687,
+      "VENDOR_ID": 570,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 14:00"
+    },
+    {
+      "ID": 723,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 570,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-22 18:00"
+    },
+    {
+      "ID": 771,
+      "WEDDING_ID": 24075,
+      "VENDOR_ID": 570,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-27 14:30"
+    },
+    {
+      "ID": 747,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 571,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 17:00"
+    },
+    {
+      "ID": 634,
+      "WEDDING_ID": 15217,
+      "VENDOR_ID": 572,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-07-25 14:00"
+    },
+    {
+      "ID": 662,
+      "WEDDING_ID": 20338,
+      "VENDOR_ID": 575,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-22 17:00"
+    },
+    {
+      "ID": 641,
+      "WEDDING_ID": 19242,
+      "VENDOR_ID": 576,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-03 13:00"
+    },
+    {
+      "ID": 656,
+      "WEDDING_ID": 20014,
+      "VENDOR_ID": 576,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-08 12:00"
+    },
+    {
+      "ID": 736,
+      "WEDDING_ID": 22277,
+      "VENDOR_ID": 576,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 17:00"
+    },
+    {
+      "ID": 742,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 576,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 15:00"
+    },
+    {
+      "ID": 743,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 576,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 17:30"
+    },
+    {
+      "ID": 744,
+      "WEDDING_ID": 22724,
+      "VENDOR_ID": 576,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-13 17:30"
+    },
+    {
+      "ID": 793,
+      "WEDDING_ID": 26560,
+      "VENDOR_ID": 576,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-10 14:00"
+    },
+    {
+      "ID": 715,
+      "WEDDING_ID": 4102,
+      "VENDOR_ID": 578,
+      "STATUS": "CONFIRMED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-13 18:30"
+    },
+    {
+      "ID": 753,
+      "WEDDING_ID": 4102,
+      "VENDOR_ID": 586,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-05 19:00"
+    },
+    {
+      "ID": 800,
+      "WEDDING_ID": 3464,
+      "VENDOR_ID": 586,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 15:30"
+    },
+    {
+      "ID": 726,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 594,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-23 17:00"
+    },
+    {
+      "ID": 782,
+      "WEDDING_ID": 25800,
+      "VENDOR_ID": 594,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-27 12:00"
+    },
+    {
+      "ID": 799,
+      "WEDDING_ID": 3464,
+      "VENDOR_ID": 598,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 13:00"
+    },
+    {
+      "ID": 724,
+      "WEDDING_ID": 21802,
+      "VENDOR_ID": 607,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-08-29 18:30"
+    },
+    {
+      "ID": 765,
+      "WEDDING_ID": 24301,
+      "VENDOR_ID": 607,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-09-26 19:30"
+    },
+    {
+      "ID": 803,
+      "WEDDING_ID": 27028,
+      "VENDOR_ID": 607,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-12-01 12:00"
+    },
+    {
+      "ID": 812,
+      "WEDDING_ID": 27164,
+      "VENDOR_ID": 610,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-18 13:30"
+    },
+    {
+      "ID": 827,
+      "WEDDING_ID": 27578,
+      "VENDOR_ID": 622,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 13:00"
+    },
+    {
+      "ID": 828,
+      "WEDDING_ID": 27578,
+      "VENDOR_ID": 622,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "espaco",
+      "BEGINS_AT": "2020-10-17 13:00"
+    },
+    {
+      "ID": 831,
+      "WEDDING_ID": 27595,
+      "VENDOR_ID": 522,
+      "STATUS": "CREATED",
+      "VENDOR_CATEGORY": "foto-e-filmagem",
+      "BEGINS_AT": "2020-10-14 17:00"
+    },
+    {
+      "ID": 809,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 164,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "lista-de-presentes",
+      "BEGINS_AT": "2020-10-10 13:30"
+    },
+    {
+      "ID": 810,
+      "WEDDING_ID": 693,
+      "VENDOR_ID": 164,
+      "STATUS": "CANCELED",
+      "VENDOR_CATEGORY": "lista-de-presentes",
+      "BEGINS_AT": "2020-10-11 13:00"
+    }
+  ]
