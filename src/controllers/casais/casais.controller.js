@@ -25,7 +25,7 @@ function filtrarPorData(weddings, dataInicial, dataFinal) {
     });
 }
 
-function formataResposta(casamentos) {
+function formataRespostaChurn(casamentos) {
     return casamentos.map((wedding) => {
         const clientesChurn = {
             id_usuario: wedding.OWNER_ID,
@@ -33,6 +33,47 @@ function formataResposta(casamentos) {
         };
         return clientesChurn;
     });
+}
+
+function quantidadeDeCasamentosPorBudget(casamentos, budgetMinimo, budgetMaximo) {
+    return casamentos.filter(casamento => (casamento.BUDGET >= budgetMinimo) && (casamento.BUDGET < budgetMaximo)).length;
+}
+
+function formataRespostaOrcamento(casamentos) {
+    return [
+        {
+            faixa_valor: "5mil a 15mil",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 5000, 15000)
+        },
+        {
+            faixa_valor: "15mil a 50mil",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 15000, 50000)
+        },
+        {
+            faixa_valor: "50mil a 100mil",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 50000, 100000)
+        },
+        {
+            faixa_valor: "100mil a 150mil",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 100000, 150000)
+        },
+        {
+            faixa_valor: "150mil a 200mil",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 150000, 200000)
+        },
+        {
+            faixa_valor: "200mil a 250mil",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 200000, 250000)
+        },
+        {
+            faixa_valor: "250mil a 300mil",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 250000, 300000)
+        },
+        {
+            faixa_valor: "300mil +",
+            quantidade_casamentos: quantidadeDeCasamentosPorBudget(casamentos, 300000, 400000)
+        }
+    ];
 }
 
 module.exports = {
@@ -47,10 +88,13 @@ module.exports = {
         let casamentosQueNaoConverteram = casamentosComInvoicesRecusadas.concat(casamementosSemInvoiceGerada)
         casamentosQueNaoConverteram = filtrarPorData(casamentosQueNaoConverteram, moment().add(10, 'days'), moment().add(90, 'days'));
 
-        return res.status(200).json(formataResposta(casamentosQueNaoConverteram));
+        return res.status(200).json(formataRespostaChurn(casamentosQueNaoConverteram));
     },
 
     async obterCasamentosPorOrcamento(req, res) {
-        return res.status(200).json({teste: "sucesso"});
+        let weddings = await lejour.getWeddings();
+
+        let resposta = formataRespostaOrcamento(weddings)
+        return res.status(200).json(resposta);
     }
 }
