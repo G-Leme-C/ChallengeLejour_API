@@ -94,6 +94,10 @@ module.exports = {
     async obterCasamentosPorOrcamento(req, res) {
         let weddings = await lejour.getWeddings();
 
+        if(req.query.days > 0) {
+            weddings = filtrarPorData(weddings, moment().subtract(req.query.days, 'days'), moment());
+        }
+
         let resposta = formataRespostaOrcamento(weddings)
         return res.status(200).json(resposta);
     }

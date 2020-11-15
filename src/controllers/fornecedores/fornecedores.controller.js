@@ -49,6 +49,12 @@ function obterAgendamentosVsInvoicesAceitas(categorias, invoices, appointments) 
     return ranking;
 }
 
+function filtrarInvoicesPorData(invoices, dataInicial, dataFinal) {
+    return invoices.filter((invoice) => {
+        return moment(invoice.CREATED_AT).isBetween(dataInicial, dataFinal);
+    });
+}
+
 
 module.exports = {
 
@@ -56,6 +62,10 @@ module.exports = {
         let invoices = await lejour.getInvoices();
 
         let categorias = extrairCategorias(invoices);
+
+        if(req.query.days > 0) {
+            invoices = filtrarInvoicesPorData(invoices, moment().subtract(req.query.days, 'days'), moment());
+        }
         
         let ranking = obterInvoicesAceitasPorCategoria(categorias, invoices);
 
@@ -69,6 +79,10 @@ module.exports = {
         let appointments = await lejour.getAppointments();
 
         let categorias = extrairCategorias(invoices);
+
+        if(req.query.days > 0) {
+            invoices = filtrarInvoicesPorData(invoices, moment().subtract(req.query.days, 'days'), moment());
+        }
 
         let agendamentosPorInvoice = obterAgendamentosVsInvoicesAceitas(categorias, invoices, appointments);
 
