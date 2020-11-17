@@ -55,7 +55,6 @@ function filtrarInvoicesPorData(invoices, dataInicial, dataFinal) {
     });
 }
 
-
 module.exports = {
 
     async obterRankingFornecedores(req, res) {
@@ -88,5 +87,4 @@ module.exports = {
 
         return res.status(200).json(agendamentosPorInvoice);
     }
-
 }

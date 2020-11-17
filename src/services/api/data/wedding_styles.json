@@ -1,0 +1,108 @@
+[
+    {
+        "estilo": "Casamento no campo",
+        "dados": [
+            {
+                "mes_ano": "Janeiro/2020",
+                "quantidade": 10
+            },
+            {
+                "mes_ano": "Fevereiro/2020",
+                "quantidade": 29
+            },
+            {
+                "mes_ano": "Março/2020",
+                "quantidade": 20
+            },
+            {
+                "mes_ano": "Abril/2020",
+                "quantidade": 15
+            },
+                        {
+                "mes_ano": "Maio/2020",
+                "quantidade": 10
+            },
+            {
+                "mes_ano": "Junho/2020",
+                "quantidade": 29
+            },
+            {
+                "mes_ano": "Julho/2020",
+                "quantidade": 20
+            },
+            {
+                "mes_ano": "Agosto/2020",
+                "quantidade": 15
+            },
+                        {
+                "mes_ano": "Setembro/2020",
+                "quantidade": 15
+            },
+                        {
+                "mes_ano": "Outubro/2020",
+                "quantidade": 10
+            },
+            {
+                "mes_ano": "Novembro/2020",
+                "quantidade": 29
+            },
+            {
+                "mes_ano": "Dezembro/2020",
+                "quantidade": 20
+            }
+        ]
+    },
+    {
+        "estilo": "Casamento na cidade",
+        "dados": [
+            {
+                "mes_ano": "Janeiro/2020",
+                "quantidade": 10
+            },
+            {
+                "mes_ano": "Fevereiro/2020",
+                "quantidade": 29
+            },
+            {
+                "mes_ano": "Março/2020",
+                "quantidade": 20
+            },
+            {
+                "mes_ano": "Abril/2020",
+                "quantidade": 15
+            },
+                        {
+                "mes_ano": "Maio/2020",
+                "quantidade": 10
+            },
+            {
+                "mes_ano": "Junho/2020",
+                "quantidade": 29
+            },
+            {
+                "mes_ano": "Julho/2020",
+                "quantidade": 20
+            },
+            {
+                "mes_ano": "Agosto/2020",
+                "quantidade": 15
+            },
+                        {
+                "mes_ano": "Setembro/2020",
+                "quantidade": 15
+            },
+                        {
+                "mes_ano": "Outubro/2020",
+                "quantidade": 10
+            },
+            {
+                "mes_ano": "Novembro/2020",
+                "quantidade": 29
+            },
+            {
+                "mes_ano": "Dezembro/2020",
+                "quantidade": 20
+            }
+        ]
+    }
+]

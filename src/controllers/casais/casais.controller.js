@@ -100,5 +100,12 @@ module.exports = {
 
         let resposta = formataRespostaOrcamento(weddings)
         return res.status(200).json(resposta);
+    },
+
+
+    async obterEstilosDeCasamentoPorTempo(req, res) {
+        let weddings = await lejour.getWeddingStyles();
+
+        res.status(200).json(weddings);
     }
 }

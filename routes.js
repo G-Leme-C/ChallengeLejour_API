@@ -6,6 +6,7 @@ const FornecedoresController = require('./src/controllers/fornecedores/fornecedo
 
 routes.get('/casais/churn', CasaisController.obterCasaisProbabilidadeRejeicao);
 routes.get('/casais/orcamento', CasaisController.obterCasamentosPorOrcamento);
+routes.get('/casais/estilos', CasaisController.obterEstilosDeCasamentoPorTempo);
 routes.get('/fornecedores/ranking', FornecedoresController.obterRankingFornecedores);
 routes.get('/fornecedores/invoices', FornecedoresController.obterAgendamentosPorInvoices);
 
