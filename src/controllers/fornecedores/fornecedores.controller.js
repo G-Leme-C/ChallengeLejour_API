@@ -85,6 +85,14 @@ module.exports = {
 
         let agendamentosPorInvoice = obterAgendamentosVsInvoicesAceitas(categorias, invoices, appointments);
 
+        for(let i = 0; i < agendamentosPorInvoice.length; i++) {
+            if(agendamentosPorInvoice[i].negocios_fechados > agendamentosPorInvoice[i].agendamentos_realizados) {
+                let negociosFechados = agendamentosPorInvoice[i].negocios_fechados;
+                agendamentosPorInvoice[i].negocios_fechados = agendamentosPorInvoice[i].agendamentos_realizados;
+                agendamentosPorInvoice[i].agendamentos_realizados = negociosFechados;
+            }
+        }
+
         return res.status(200).json(agendamentosPorInvoice);
     }
 }

@@ -18,8 +18,9 @@ module.exports = {
 
     async getWeddings() {
         try {
-            const response = await axios.get(baseURL + '/wedding')
-            return response.data;
+            let weddings = JSON.parse(fs.readFileSync('./src/services/api/data/wedding.json'));
+
+            return weddings;
         }
         catch (error) {
             console.log(error);
