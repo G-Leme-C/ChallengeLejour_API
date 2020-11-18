@@ -88,9 +88,9 @@ module.exports = {
         let casamentosQueNaoConverteram = casamentosComInvoicesRecusadas.concat(casamementosSemInvoiceGerada)
         casamentosQueNaoConverteram = filtrarPorData(casamentosQueNaoConverteram, moment().add(10, 'days'), moment().add(90, 'days'));
 
-        const casamentosOrdenado  = casamentosQueNaoConverteram.sort((a,b) => moment(a.WEDDING_DATE).format('YYYYMMDD') - moment(b.WEDDING_DATE).format('YYYYMMDD'))
+        const casamentosOrdenados  = casamentosQueNaoConverteram.sort((a,b) => moment(a.WEDDING_DATE).format('YYYYMMDD') - moment(b.WEDDING_DATE).format('YYYYMMDD'))
 
-        return res.status(200).json(formataRespostaChurn(casamentosOrdenado));
+        return res.status(200).json(formataRespostaChurn(casamentosOrdenados));
     },
 
     async obterCasamentosPorOrcamento(req, res) {

@@ -29,8 +29,10 @@ module.exports = {
 
     async getInvoices() {
         try {
-            const response = await axios.get(baseURL + '/invoice')
-            return response.data;
+            //const response = await axios.get(baseURL + '/invoice')
+            let invoices = JSON.parse(fs.readFileSync('./src/services/api/data/invoice.json'));
+
+            return invoices;
         }
         catch (error) {
             console.log(error);
@@ -39,8 +41,10 @@ module.exports = {
 
     async getAppointments() {
         try {
-            const response = await axios.get(baseURL + '/appointment')
-            return response.data;
+            //const response = await axios.get(baseURL + '/appointment')
+            let appointments = JSON.parse(fs.readFileSync('./src/services/api/data/appointment.json'));
+
+            return appointments;
         }
         catch (error) {
             console.log(error);
